@@ -1,0 +1,27 @@
+{
+	"name": "@morev/use",
+	"description": "The things I am using :)",
+	"type": "module",
+	"version": "0.0.0",
+	"packageManager": "yarn@4.6.0",
+	"author": {
+		"name": "Maxim Morev",
+		"email": "max.seainside@gmail.com"
+	},
+	"homepage": "https://github.com/MorevM/use#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MorevM/use"
+	},
+	"keywords": [
+		"hardware",
+		"software",
+		"environment",
+		"extensions"
+	],
+	"devDependencies": {
+		"@morev/eslint-config": "^36.3.2",
+		"eslint": "^9.19.0",
+		"typescript": "^5.7.3"
+	}
+}
