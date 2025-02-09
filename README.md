@@ -63,6 +63,7 @@ The things I am using :)
 * Microphone: Shure SM7B
 * Microphone stand: Blue Compass
 * Audio Interface: TC Helicon Go XLR Mini
+* Headphones: Logitech G PRO X
 
 ## Software
 
