@@ -98,6 +98,8 @@ The things I am using :)
 ### Useful shortcuts
 
 * `Ctrl + Shift + P` - open developer toolbar
+* `Ctrl + Shift + O` - jump to a symbol in the current file
+* `Ctrl + .` - quick actions (imports, fixes, refactoring)
 * `Ctrl + E` - go to file
 * `Ctrl + R` - open a project
 * `Ctrl + Shift + F` - switch sidebar to project-wide search
