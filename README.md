@@ -26,7 +26,7 @@ The things I am using :)
 ### Environment
 
 * Chair: AndaSeat T-Pro 2 *(slightly customized)*
-* Table: custom 1900x1100x40mm tabletop with ergonomic 250mm cutout and height adjustment from 75сm to 115cm
+* Table: custom 1900x1000x40mm tabletop with ergonomic 250mm cutout and height adjustment from 75сm to 115cm
 
 ### Workstation
 
